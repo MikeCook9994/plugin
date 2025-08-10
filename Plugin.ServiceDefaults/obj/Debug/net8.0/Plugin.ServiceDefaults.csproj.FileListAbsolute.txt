@@ -1,0 +1,12 @@
+C:\Users\mcook\Documents\src\plugin\Plugin.ServiceDefaults\bin\Debug\net8.0\Plugin.ServiceDefaults.deps.json
+C:\Users\mcook\Documents\src\plugin\Plugin.ServiceDefaults\bin\Debug\net8.0\Plugin.ServiceDefaults.dll
+C:\Users\mcook\Documents\src\plugin\Plugin.ServiceDefaults\bin\Debug\net8.0\Plugin.ServiceDefaults.pdb
+C:\Users\mcook\Documents\src\plugin\Plugin.ServiceDefaults\obj\Debug\net8.0\Plugin.ServiceDefaults.csproj.AssemblyReference.cache
+C:\Users\mcook\Documents\src\plugin\Plugin.ServiceDefaults\obj\Debug\net8.0\Plugin.ServiceDefaults.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mcook\Documents\src\plugin\Plugin.ServiceDefaults\obj\Debug\net8.0\Plugin.ServiceDefaults.AssemblyInfoInputs.cache
+C:\Users\mcook\Documents\src\plugin\Plugin.ServiceDefaults\obj\Debug\net8.0\Plugin.ServiceDefaults.AssemblyInfo.cs
+C:\Users\mcook\Documents\src\plugin\Plugin.ServiceDefaults\obj\Debug\net8.0\Plugin.ServiceDefaults.csproj.CoreCompileInputs.cache
+C:\Users\mcook\Documents\src\plugin\Plugin.ServiceDefaults\obj\Debug\net8.0\Plugin.ServiceDefaults.dll
+C:\Users\mcook\Documents\src\plugin\Plugin.ServiceDefaults\obj\Debug\net8.0\refint\Plugin.ServiceDefaults.dll
+C:\Users\mcook\Documents\src\plugin\Plugin.ServiceDefaults\obj\Debug\net8.0\Plugin.ServiceDefaults.pdb
+C:\Users\mcook\Documents\src\plugin\Plugin.ServiceDefaults\obj\Debug\net8.0\ref\Plugin.ServiceDefaults.dll
